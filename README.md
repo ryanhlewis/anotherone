@@ -1,8 +1,6 @@
 [![kNNmdD.png](https://dc626.4shared.com/img/gfFVQabOea/s24/176ab1b9018/Another_One?async&rand=0.10187313229242556)](https://dc626.4shared.com/img/gfFVQabOea/s24/176ab1b9018/Another_One?async&rand=0.10187313229242556)
 
 
-For a better visual experience, go here: [Another One Website](https://ryanhlewis.github.io/anotherone)
-
 Another One is a game I was working on before I had to pause for college applications.
 
 It is designed to be a puzzle shooter, and I was planning to incorporate multiplayer as well. However, all I managed to get done before college applications put me on a hiatus was the first person aspect, as well as a very basic regeneration system, sine wave idle system, and some basic enemies.
