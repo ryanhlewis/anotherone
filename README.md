@@ -1,8 +1,6 @@
 [![kNNmdD.png](https://dc626.4shared.com/img/gfFVQabOea/s24/176ab1b9018/Another_One?async&rand=0.10187313229242556)](https://dc626.4shared.com/img/gfFVQabOea/s24/176ab1b9018/Another_One?async&rand=0.10187313229242556)
 
 
-For a better visual experience, go here: [Another One Website](https://ryanhlewis.github.io/anotherone)
-
 Another One is a game I was working on before I had to pause for college applications.
 
 It is designed to be a puzzle shooter, and I was planning to incorporate multiplayer as well. However, all I managed to get done before college applications put me on a hiatus was the first person aspect, as well as a very basic regeneration system, sine wave idle system, and some basic enemies.
@@ -17,7 +15,7 @@ This was all done using simple if and boolean statements, where it would check f
 
 It looks like this in action:
 
-<img src="https://im3.ezgif.com/tmp/ezgif-3-292389263bcb.gif" width="400" />
+<img src="https://media3.giphy.com/media/g3FhqxqEGozXAw8Tz3/giphy.gif" width="400" />
 
 ## Sine Wave Idle System
 I wanted to avoid typical animations for this game, and instead have math determine things like leg positions, arms, and so on. The Unity animation system is just a little bit too buggy for me, especially when I was setting up the enemy characters. So, I thought that a sine wave would perfectly imitate how a person idles, and it does.
