@@ -17,7 +17,7 @@ This was all done using simple if and boolean statements, where it would check f
 
 It looks like this in action:
 
-<img src="https://im3.ezgif.com/tmp/ezgif-3-292389263bcb.gif" width="400" />
+<img src="https://media3.giphy.com/media/g3FhqxqEGozXAw8Tz3/giphy.gif" width="400" />
 
 ## Sine Wave Idle System
 I wanted to avoid typical animations for this game, and instead have math determine things like leg positions, arms, and so on. The Unity animation system is just a little bit too buggy for me, especially when I was setting up the enemy characters. So, I thought that a sine wave would perfectly imitate how a person idles, and it does.
