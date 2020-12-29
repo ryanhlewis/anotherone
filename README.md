@@ -17,11 +17,7 @@ This was all done using simple if and boolean statements, where it would check f
 
 It looks like this in action:
 
-<iframe width="560" height="315"
-src="https://drive.google.com/file/d/1t_fhTazIT2PExwBG4WMd3pm9say6nFR_/view" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+<img src="https://im3.ezgif.com/tmp/ezgif-3-292389263bcb.gif" width="400" />
 
 ## Sine Wave Idle System
 I wanted to avoid typical animations for this game, and instead have math determine things like leg positions, arms, and so on. The Unity animation system is just a little bit too buggy for me, especially when I was setting up the enemy characters. So, I thought that a sine wave would perfectly imitate how a person idles, and it does.
@@ -36,7 +32,7 @@ It looks like this:
 ## Basic Enemies
 I wished I had used math instead of Unity's animation system, because these little guys are buggy as all hell. They work, though. To make these scary mushroom zombies, all I needed was a random walk around script, and a detect and chase function provided to me by Unity's own FPS Sample. The programming for the attack was simple enough, but sometimes the animation does not play along with it, making this look weird. Anyhow, the code is available in AnotherOne/Assets/FPS/Scripts/EnemyController.cs and I made a lot of changes, so there's not really one line segment to point to.
 
-However, I also added an array function that guarentees a random drop chance of an item as well. These items can be set up from Unity's GUI, and I thought the feature was pretty useful, as you could type in your RNG amount, and specify the prefab to instantiate, and if RNG was on your side- the enemy would drop that on their death. That code is found within the same file at 74, 509-520, and 430-442.
+However, I also added an array function that guarentees a random drop chance of an item as well. These items can be set up from Unity's GUI, and I thought the feature was pretty useful, as you could type in your RNG amount, specify the prefab to instantiate, and if RNG was on your side- the enemy would drop that on their death. That code is found within the same file at 74, 509-520, and 430-442.
 
 Here's it working:
 
